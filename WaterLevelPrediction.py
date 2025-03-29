@@ -31,6 +31,7 @@ global X, Y, X_train, X_test, y_train, y_test, Y1
 global mse, text, pathlabel
 
 '''
+code
 gray wolf optimization algortihm which consists of different wolf such as alpha, beta, delta and omega and all this wold will hunt in group
 alpha wolf is the commander and help in taking optimal decision
 omega wolf will separate prey from group
